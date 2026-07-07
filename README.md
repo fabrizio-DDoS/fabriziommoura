@@ -25,7 +25,7 @@
 - 👽 Python | JAVA | JavaScript | C
 
 <p align="center">
-  <a href="https://github.com/Vinicodeze">
+  <a href="https://github.com/fabrizio-DDoS">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinicodeze&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
@@ -46,7 +46,7 @@
   ## Principais Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,linux,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,c,linux,github,vscode" />
 </p>
 
 ---
