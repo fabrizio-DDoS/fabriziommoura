@@ -1,6 +1,5 @@
 
 <p align="center">
-  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
