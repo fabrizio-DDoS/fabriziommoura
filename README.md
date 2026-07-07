@@ -36,7 +36,12 @@
      <a href = "mailto:fabriziommoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>
 <br><br>
-<img align="left" src="" alt="" />
-<img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+  ## Principais Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,linux,github,vscode" />
+</p>
+
+---
   </p>
   
